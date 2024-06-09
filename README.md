@@ -1,4 +1,4 @@
-![SAMPUL MSN]([https://user-images.githubusercontent.com/111676859/214242782-ba0ddd73-0545-4155-9ae1-0348d027ae8c.jpg](https://cdn.discordapp.com/attachments/952726531237609532/1249209286697943152/logo.png?ex=6666784f&is=666526cf&hm=8540c1c4e5ea2afd1b4cc3cb9c1a35f2e36aa5e72d0f993cd43b108a7d6bc405&))
+![SAMPUL MSN](https://cdn.discordapp.com/attachments/952726531237609532/1249209286697943152/logo.png?ex=6666784f&is=666526cf&hm=8540c1c4e5ea2afd1b4cc3cb9c1a35f2e36aa5e72d0f993cd43b108a7d6bc405&)
 
 # Reisan Adrefa X RPL
 
